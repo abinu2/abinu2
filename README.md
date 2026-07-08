@@ -13,7 +13,7 @@ I build systems that have to earn trust — contracts that can't revert, network
 
 | Project | What it is |
 |---|---|
-| 🚀 [**KimuntuX**](https://github.com/aryanyeole/KimuntuX) | Multi-tenant SaaS CRM and AI funnel builder for affiliate marketers — React 19, FastAPI, PostgreSQL, Gemini + Claude AI. Led the blockchain integration module. [Live demo](https://project-cx19s.vercel.app/Z) |
+| 🚀 [**KimuntuX**](https://github.com/aryanyeole/KimuntuX) | Multi-tenant SaaS CRM and AI funnel builder for affiliate marketers — React 19, FastAPI, PostgreSQL, Gemini + Claude AI. Led the blockchain integration module. [Live demo](https://project-cx19s.vercel.app) |
 | 🩺 [**HydraScan**](https://github.com/abinu2/HydraScan) | Native iOS recovery companion app — SwiftUI + Supabase, live QuickPose movement capture, AI-driven recovery plans. Built with a hackathon team. |
 | 🏛️ [**RallyPoint**](https://github.com/abinu2/RallyPoint) | Civic engagement platform for local government transparency — Next.js, 12-model Prisma schema, Claude AI moderation pipeline. [Live demo](https://hackathonrallypoint.vercel.app/) |
 | 🛡️ [**SafeGuard**](https://github.com/abinu2/SafeGuard) | AI-powered financial resilience platform for first-time small business owners — conversational onboarding, live dashboard, insurance & compliance tracking. **InnovationHacks 2026.** [Live demo](https://safeguard-nu.vercel.app/) |

@@ -14,9 +14,9 @@ I build systems that have to earn trust — contracts that can't revert, network
 | Project | What it is |
 |---|---|
 | 🏆 [**LaunchPad**](https://github.com/abinu2/LaunchPad) | AI-powered small business ops suite — 5 tools on Vertex AI + Gemini. **Google Cloud Track + Financial Literacy Track winner.** [Live demo](https://launch-pad-flame.vercel.app) |
-| 🏛️ [**RallyPoint**](https://github.com/abinu2/RallyPoint) | Civic engagement platform for local government transparency — Next.js, 12-model Prisma schema, Claude AI moderation pipeline |
+| 🏛️ [**RallyPoint**](https://github.com/abinu2/RallyPoint) | Civic engagement platform for local government transparency — Next.js, 12-model Prisma schema, Claude AI moderation pipeline. [Live demo](https://rally-point-rho.vercel.app) |
 | 🏆 [**Etherfi**](https://github.com/abinu2/Etherfi) | EigenLayer AVS that uses Claude AI to validate staking strategies on-chain. **Claude Builders Club Hackathon winner.** |
-| 🏢 [**BTAV Smart Home**](https://github.com/abinu2/BTAV-Smart-Home-Website) | Production marketing site for a smart-home integrator — Next.js, Supabase, hardened security headers |
+| 🏢 [**BTAV Smart Home**](https://github.com/abinu2/BTAV-Smart-Home-Website) | Production marketing site for a smart-home integrator — Next.js, Supabase, hardened security headers. [Live site](https://btav.tech) |
 | 💻 [**Portfolio**](https://github.com/abinu2/Portfolio) | This person's actual portfolio site — dark terminal aesthetic, live GitHub project grid |
 
 ## Tech stack

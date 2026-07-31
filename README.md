@@ -2,7 +2,8 @@
 
 Site Reliability Engineer · Blockchain Developer · Security Researcher
 
-I keep systems reliable and secure: infrastructure that can't go down, pipelines that can't lose data, and contracts that can't revert. I also research how generative AI tools hold up across the software engineering lifecycle. B.S. Computer Science (Cybersecurity concentration), Arizona State University, May 2026. Incoming M.S. in Robotics & Autonomous Systems.
+I keep systems reliable and secure: infrastructure that can't go down, pipelines that can't lose data, and contracts that can't revert. I also research how generative AI tools hold up across the software engineering lifecycle.
+B.S. Computer Science (Cybersecurity concentration), Arizona State University, - May 2026. Incoming M.S. in Robotics & Autonomous Systems.
 
 ### 🌐 [**Explore my full portfolio →**](https://portfolio-abinu2s-projects.vercel.app)
 

@@ -1,6 +1,6 @@
 # Hey, I'm Allan 👋
 
-Software Engineer · Blockchain Developer · Security Researcher
+Site Reliability Engineer · Blockchain Developer · Security Researcher
 
 I build systems that have to earn trust — contracts that can't revert, networks that can't leak, pipelines that can't lose data. B.S. Computer Science (Cybersecurity concentration), Arizona State University — May 2026. Incoming M.S. in Robotics & Autonomous Systems.
 

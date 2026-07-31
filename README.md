@@ -2,13 +2,13 @@
 
 Site Reliability Engineer · Blockchain Developer · Security Researcher
 
-I keep systems reliable and secure: infrastructure that can't go down, pipelines that can't lose data, and contracts that can't revert. I also research how generative AI tools hold up across the software engineering lifecycle.
-B.S. Computer Science (Cybersecurity concentration), Arizona State University, - May 2026. Incoming M.S. in Robotics & Autonomous Systems.
+I build and maintain systems that have to earn trust: production infrastructure that stays reliable, blockchain applications that can't be exploited, and contributions to IEEE P26044, an in-development IEEE/ISO 12207 standard on generative AI capabilities in software engineering. B.S. Computer Science (Cybersecurity concentration), Arizona State University, May 2026. Incoming M.S. in Robotics & Autonomous Systems.
 
 ### 🌐 [**Explore my full portfolio →**](https://portfolio-abinu2s-projects.vercel.app)
 
 - ⚙️ Site Reliability Engineer — internal automation tooling, observability & monitoring dashboards, and ongoing production maintenance
 - 🔐 Shipping production blockchain security infrastructure at **Kimuntu Power**
+- 📜 Contributing research to the IEEE P26044 standard on generative AI in software engineering
 - 🎓 VP of Leadership @ **ASU Hacker Devils** (competitive CTF team, top 30% regionally)
 - 🧑‍🏫 Undergraduate tutor — Data Structures & Algorithms, ASU
 - 🔗 [LinkedIn](https://www.linkedin.com/in/allan-binu)
@@ -27,7 +27,7 @@ B.S. Computer Science (Cybersecurity concentration), Arizona State University, -
 ## Other notable contributions
 
 - 🏆 **LaunchPad** — AI-powered small business ops suite — 5 tools on Vertex AI + Gemini. **Google Cloud Track + Financial Literacy Track winner.** [Repo](https://github.com/abinu2/LaunchPad) · [Live demo](https://launch-pad-flame.vercel.app)
-- ☕ **IEEE P26044 Coffee Shop Study** — Research project examining gen-AI tool trustworthiness across the software engineering lifecycle (IEEE/ISO 12207 process framework), using a shared coffee-ordering app as the test instrument. Own the Profiles/Rewards and Checkout track. [Repo](https://github.com/abinu2/IEEE-P26044-Coffee-Shop-)
+- 📜 **IEEE P26044 Standard — Research Contributor** — Contributing research toward IEEE P26044, an in-development IEEE/ISO 12207 reference standard on generative AI capabilities in software engineering. Built and led the Profiles/Rewards and Checkout track of the shared reference application used as the standard's empirical test instrument. [Repo](https://github.com/abinu2/IEEE-P26044-Coffee-Shop-)
 
 ## Tech stack
 
@@ -86,7 +86,7 @@ B.S. Computer Science (Cybersecurity concentration), Arizona State University, -
 ## Currently
 
 - Working as a Site Reliability Engineer — internal automation tooling, observability & monitoring dashboards, and production maintenance
-- Researching gen-AI tool trustworthiness across the software engineering lifecycle (IEEE P26044 Coffee Shop study)
+- Contributing research to the IEEE P26044 standard on generative AI in software engineering
 - Building blockchain security infrastructure at Kimuntu Power (Node.js/Python backend + Solidity contracts + React frontend, live PostgreSQL handling financial transactions)
 - Running a Proxmox home lab with VLAN segmentation and WireGuard
 
